@@ -10,5 +10,5 @@
 
 Windows 10 以降は、<a href="https://https://秀丸マクロ.net/?page=nobu_tool_hm_baloontoast">HmBaloonToast</a> を利用してください。
 
-[https://https://秀丸マクロ.net/?page=nobu_tool_hm_baloonnotice](https://https://秀丸マクロ.net/?page=nobu_tool_hm_baloonnotice)
+[https://秀丸マクロ.net/?page=nobu_tool_hm_baloonnotice](https://秀丸マクロ.net/?page=nobu_tool_hm_baloonnotice)
 
