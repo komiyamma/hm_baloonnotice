@@ -1,7 +1,7 @@
 # HmBaloonNotice
 
 ![HmBaloonNotice v1.0.1](https://img.shields.io/badge/HmBaloonNotice-v1.0.1-6479ff.svg)
-[![MsPL](https://img.shields.io/badge/license-MsPL-blue.svg?style=flat)](LICENSE)
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 ![Hidemaru 8.00 x86](https://img.shields.io/badge/Hidemaru-v8.00-6479ff.svg)
 ![Windows Vista|7|8|8.1](https://img.shields.io/badge/Windows-Vista|7|8|8.1-6479ff.svg?logo=windows&logoColor=white)
 
